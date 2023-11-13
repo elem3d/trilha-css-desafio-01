@@ -1,0 +1,8 @@
+header{
+    
+    width: 1440px;
+    height: 605px;
+    flex-shrink: 0;
+    background-image: url(./banner.png);
+    border-bottom: 1px solid #33A8DB;
+}
